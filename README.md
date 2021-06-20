@@ -2,6 +2,7 @@
 - 👀 I’m interested in python ,AI
 - 🌱 I’m currently AI
 - 📫 How to reach me berk.karadas@bilgiedu.net
+- 4th grade Bilgi University Computer Engineering Student.
 
 <!---
 berkkaradas/berkkaradas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
