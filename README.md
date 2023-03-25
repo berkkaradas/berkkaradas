@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @berkkaradas
-- 👀 I’m interested in python ,AI
-- 🌱 I’m currently AI
+- 👀 I’m interested in AI
+- 🌱 I am currently working at Amadeus as a software development engineer
 - 📫 How to reach me berk.karadas@bilgiedu.net
-- 4th grade Bilgi University Computer Engineering Student.
+- - 🌱 I graduated from Bilgi University, Department of Computer Engineering.
 
 <!---
 berkkaradas/berkkaradas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
